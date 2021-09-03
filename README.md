@@ -18,7 +18,7 @@
 <table id="resulttable" class="userbox" style="border-collapse: collapse; border-color: rgb(95, 65, 0);">
 	<tbody><tr>
 		<td id="resultid" class="id" style="border: 1px solid rgb(95, 65, 0); color: rgb(0, 0, 0); background: rgb(243, 203, 115); line-height: 1.2em;">★</td> 
-		<td id="resultinfo" class="info" style="border: 1px solid rgb(95, 65, 0); color: rgb(0, 0, 0); background: rgb(255, 214, 124); line-height: 1.2em;">This user happy</td>
+		<td id="resultinfo" class="info" style="border: 1px solid rgb(95, 65, 0); color: rgb(0, 0, 0); background: rgb(255, 214, 124); line-height: 1.2em;">This user is happy</td>
 	</tr>
 </tbody></table>
 
