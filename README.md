@@ -1,11 +1,11 @@
-<h1><b>★KITTY CHAN★</b></h1>
+# **★KITTY CHAN★**
 
 - 👋 Hi, I’m @Kitty-PinkyChan, can all me Kitty or any nice name that i could accept
 - ✨ I'm still newbie. PRONOUS=They/them (private)
 - 👀 I’m interested with drawing, making videos, coding, knitting, stiching plushies
 - 🌱 I’m currently learning coding & animating stuff
 - 💞️ I’m multiply fandoms <(-v-)>
-- 📫 How to reach me through media socials (Scratch, Twitter, Instagram, <a href="https://kittypinkychan.carrd.co/#">etc</a> )
+- 📫 How to reach me through media socials (Scratch, Twitter, Instagram, [etc](https://kittypinkychan.carrd.co/#) )
 
 (making test for this so hi there how are you :D✨)
 
