@@ -1,7 +1,7 @@
 # **★KITTY CHAN★**
 
 - 👋 Hi, I’m @Kitty-PinkyChan, can call me Kitty or any nice name that i could accept
-- ✨ I'm still newbie. PRONOUS=They/them (private), pretty rare use GitHub
+- ✨ I'm still newbie. PRONOUNS=They/them (private), pretty rare use GitHub
 - 👀 I’m interested with drawing, making videos, coding, knitting, stiching plushies
 - 🌱 I’m currently learning coding & animating stuff
 - 💞️ I’m multiply fandoms <(-v-)>
